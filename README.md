@@ -1,4 +1,6 @@
-# KoGaMa Image-to-Text Logic Box                                                                                                 
+# KoGaMa Image-to-Text Logic Box   
+
+<img width="400" height="400" alt="Background (63)" src="https://github.com/user-attachments/assets/aceffd1b-e7a2-4727-b34a-43d021d016f5" />
                                                                                                                                                                                             
 A lightweight desktop application that converts image files into formatted text codes specifically designed for KoGaMa logic textboxes. This tool works best with newer versions of KoGaMa that support detailed text coloring and custom font sizes.
 
